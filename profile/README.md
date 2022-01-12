@@ -1,8 +1,6 @@
 <div align=center>
 
-<img alt="bootvue" src="https://cdn.jsdelivr.net/gh/boot-vue/boot-vue@master/logo.png" width=100 />
-
-# Handsome boy 👋
+# Project Basic Framework 👋
 
 <p>
 
